@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Epixxs 
 -  PS-- My real name is Saksham Sharma.
-- 👀 Interested in Web Dovelopment & Data Analytics (PYTHON)
-- 🌱 Currently learning Python
-- 📫 Reach me via Gmail--  sakshamsharmaknp@gmail.com  
+- 👀 Interested in Web Dovelopment
+- 🌱 Currently learning Python, HTML and CSS
+<!-- - 📫 Reach me via Gmail--  sakshamsharmaknp@gmail.com   -->
 
 
 
