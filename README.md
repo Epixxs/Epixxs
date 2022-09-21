@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Epixxs 
 -  PS-- My real name is Saksham Sharma.
 - 👀 Interested in Web Dovelopment
-- 🌱 Currently learning Python, HTML and CSS
+- 🌱 Currently learning Python and Javascript
 <!-- - 📫 Reach me via Gmail--  sakshamsharmaknp@gmail.com   -->
 
 ![code](https://user-images.githubusercontent.com/102599569/176002105-81e146d0-5073-439b-a12a-bbfd2b8b426c.gif)
