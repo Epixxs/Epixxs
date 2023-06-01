@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Epixxs 
-- 👀 Interested in Data Science
-- 🌱 Currently learning Artificial Intelligence 
+- 👀 Interested in Artificial Intelligence and Machine learning
+- 🌱 Currently learning Data Science
 <!-- - 📫 Reach me via Gmail--  sakshamsharmaknp@gmail.com   -->
 
 ![code](https://user-images.githubusercontent.com/102599569/176002105-81e146d0-5073-439b-a12a-bbfd2b8b426c.gif)
