@@ -76,7 +76,3 @@ Reproduces a model that applies **CEBRA** (Contrastive Embedding for Behavioral 
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Epixxs&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epixxs&layout=compact&hide_border=true" height="150" alt="Top languages">
-</p>
