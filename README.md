@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  BCA undergrad · Kanpur, India · Python · Machine Learning · Research-curious
+  Undergrad · India · Python · Machine Learning · Research-curious
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ Reproduces a model that applies **CEBRA** (Contrastive Embedding for Behavioral 
 
 ## Currently
 
-- 🎓 **BCA, 2nd year** at Chhatrapati Shahu Ji Maharaj University (graduating 2028). Coursework includes Data Structures, Statistics and Operating Systems.
+- 🎓 **BCA, 2nd year** at Chhatrapati Shahu Ji Maharaj University (graduating 2028). Coursework includes Data Structures, Statistics, Operating Systems and more.
 - 📜 **SWAYAM (NPTEL), Government of India:** *Machine Learning and Deep Learning, Fundamentals and Applications.*
 - 🔬 Reading papers and rebuilding their models, with a lean toward **NLP** and research-oriented ML.
 
